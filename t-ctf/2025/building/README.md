@@ -45,4 +45,5 @@ sqlite>
 
 ## Getting the flag
 1. Upload `vuln.db` as user data file
-2. Retrieve the flag from `/admin`
+2. Login in as user with `id=424`
+3. Retrieve the flag from `/admin`
